@@ -1,1 +1,4 @@
-#canvas { border: 1px solid Black; }
+#canvas { 
+    border: 1px solid Black;
+    transition: opacity 0.3s;
+}
